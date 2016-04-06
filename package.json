@@ -1,0 +1,14 @@
+{
+  "name": "fourBallsGame",
+  "version": "1.0.0",
+  "description": "四球游戏",
+  "keywords": "四球游戏",
+  "private": false,
+  "license": "ISC",
+  "author": "白云飘飘",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "gulp": "^3.9.1"
+  }
+}
